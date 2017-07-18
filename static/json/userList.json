@@ -1,354 +1,350 @@
 {
-  "code": 200,
-  "message": "SUCCESS",
-  "data": {
     "total": 100,
     "page": 1,
     "size": 10,
     "list": [
-      {
-        "id": 100,
-        "uid": "100@163.com",
-        "cn": "test01",
-        "ou": 28072,
-        "telephoneNumber": "888888100",
-        "mail": "100@163.com",
-        "mobile": "150888888100",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 99,
-        "uid": "99@163.com",
-        "cn": "test02",
-        "ou": 28072,
-        "telephoneNumber": "88888899",
-        "mail": "99@163.com",
-        "mobile": "15088888899",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 98,
-        "uid": "98@163.com",
-        "cn": "test03",
-        "ou": 28072,
-        "telephoneNumber": "88888898",
-        "mail": "98@163.com",
-        "mobile": "15088888898",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 100,
-        "uid": "100@163.com",
-        "cn": "test04",
-        "ou": 28072,
-        "telephoneNumber": "888888100",
-        "mail": "100@163.com",
-        "mobile": "150888888100",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 99,
-        "uid": "99@163.com",
-        "cn": "test05",
-        "ou": 28072,
-        "telephoneNumber": "88888899",
-        "mail": "99@163.com",
-        "mobile": "15088888899",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 98,
-        "uid": "98@163.com",
-        "cn": "test06",
-        "ou": 28072,
-        "telephoneNumber": "88888898",
-        "mail": "98@163.com",
-        "mobile": "15088888898",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 100,
-        "uid": "100@163.com",
-        "cn": "test07",
-        "ou": 28072,
-        "telephoneNumber": "888888100",
-        "mail": "100@163.com",
-        "mobile": "150888888100",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 99,
-        "uid": "99@163.com",
-        "cn": "test08",
-        "ou": 28072,
-        "telephoneNumber": "88888899",
-        "mail": "99@163.com",
-        "mobile": "15088888899",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 98,
-        "uid": "98@163.com",
-        "cn": "test01",
-        "ou": 28072,
-        "telephoneNumber": "88888898",
-        "mail": "98@163.com",
-        "mobile": "15088888898",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 100,
-        "uid": "100@163.com",
-        "cn": "test02",
-        "ou": 28072,
-        "telephoneNumber": "888888100",
-        "mail": "100@163.com",
-        "mobile": "150888888100",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 99,
-        "uid": "99@163.com",
-        "cn": "test03",
-        "ou": 28072,
-        "telephoneNumber": "88888899",
-        "mail": "99@163.com",
-        "mobile": "15088888899",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 98,
-        "uid": "98@163.com",
-        "cn": "test04",
-        "ou": 28072,
-        "telephoneNumber": "88888898",
-        "mail": "98@163.com",
-        "mobile": "15088888898",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 100,
-        "uid": "100@163.com",
-        "cn": "test05",
-        "ou": 28072,
-        "telephoneNumber": "888888100",
-        "mail": "100@163.com",
-        "mobile": "150888888100",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 99,
-        "uid": "99@163.com",
-        "cn": "test06",
-        "ou": 28072,
-        "telephoneNumber": "88888899",
-        "mail": "99@163.com",
-        "mobile": "15088888899",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 98,
-        "uid": "98@163.com",
-        "cn": "test01",
-        "ou": 28072,
-        "telephoneNumber": "88888898",
-        "mail": "98@163.com",
-        "mobile": "15088888898",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 100,
-        "uid": "100@163.com",
-        "cn": "test02",
-        "ou": 28072,
-        "telephoneNumber": "888888100",
-        "mail": "100@163.com",
-        "mobile": "150888888100",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 99,
-        "uid": "99@163.com",
-        "cn": "test03",
-        "ou": 28072,
-        "telephoneNumber": "88888899",
-        "mail": "99@163.com",
-        "mobile": "15088888899",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 98,
-        "uid": "98@163.com",
-        "cn": "test04",
-        "ou": 28072,
-        "telephoneNumber": "88888898",
-        "mail": "98@163.com",
-        "mobile": "15088888898",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 100,
-        "uid": "100@163.com",
-        "cn": "test05",
-        "ou": 28072,
-        "telephoneNumber": "888888100",
-        "mail": "100@163.com",
-        "mobile": "150888888100",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 99,
-        "uid": "99@163.com",
-        "cn": "test06",
-        "ou": 28072,
-        "telephoneNumber": "88888899",
-        "mail": "99@163.com",
-        "mobile": "15088888899",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [
-          1,
-          5,
-          6,
-          9
-        ],
-        "dept": "副总工程师"
-      },
-      {
-        "id": 98,
-        "uid": "98@163.com",
-        "cn": "test07",
-        "ou": 28072,
-        "telephoneNumber": "88888898",
-        "mail": "98@163.com",
-        "mobile": "15088888898",
-        "isAdmin": 0,
-        "isDelete": 0,
-        "privilege": [],
-        "dept": "副总工程师"
-      }
+        {
+            "id": 100,
+            "uid": "100@163.com",
+            "cn": "test01",
+            "ou": 28072,
+            "telephoneNumber": "888888100",
+            "mail": "100@163.com",
+            "mobile": "150888888100",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 99,
+            "uid": "99@163.com",
+            "cn": "test02",
+            "ou": 28072,
+            "telephoneNumber": "88888899",
+            "mail": "99@163.com",
+            "mobile": "15088888899",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 98,
+            "uid": "98@163.com",
+            "cn": "test03",
+            "ou": 28072,
+            "telephoneNumber": "88888898",
+            "mail": "98@163.com",
+            "mobile": "15088888898",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 100,
+            "uid": "100@163.com",
+            "cn": "test04",
+            "ou": 28072,
+            "telephoneNumber": "888888100",
+            "mail": "100@163.com",
+            "mobile": "150888888100",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 99,
+            "uid": "99@163.com",
+            "cn": "test05",
+            "ou": 28072,
+            "telephoneNumber": "88888899",
+            "mail": "99@163.com",
+            "mobile": "15088888899",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 98,
+            "uid": "98@163.com",
+            "cn": "test06",
+            "ou": 28072,
+            "telephoneNumber": "88888898",
+            "mail": "98@163.com",
+            "mobile": "15088888898",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 100,
+            "uid": "100@163.com",
+            "cn": "test07",
+            "ou": 28072,
+            "telephoneNumber": "888888100",
+            "mail": "100@163.com",
+            "mobile": "150888888100",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 99,
+            "uid": "99@163.com",
+            "cn": "test08",
+            "ou": 28072,
+            "telephoneNumber": "88888899",
+            "mail": "99@163.com",
+            "mobile": "15088888899",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 98,
+            "uid": "98@163.com",
+            "cn": "test01",
+            "ou": 28072,
+            "telephoneNumber": "88888898",
+            "mail": "98@163.com",
+            "mobile": "15088888898",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 100,
+            "uid": "100@163.com",
+            "cn": "test02",
+            "ou": 28072,
+            "telephoneNumber": "888888100",
+            "mail": "100@163.com",
+            "mobile": "150888888100",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 99,
+            "uid": "99@163.com",
+            "cn": "test03",
+            "ou": 28072,
+            "telephoneNumber": "88888899",
+            "mail": "99@163.com",
+            "mobile": "15088888899",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 98,
+            "uid": "98@163.com",
+            "cn": "test04",
+            "ou": 28072,
+            "telephoneNumber": "88888898",
+            "mail": "98@163.com",
+            "mobile": "15088888898",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 100,
+            "uid": "100@163.com",
+            "cn": "test05",
+            "ou": 28072,
+            "telephoneNumber": "888888100",
+            "mail": "100@163.com",
+            "mobile": "150888888100",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 99,
+            "uid": "99@163.com",
+            "cn": "test06",
+            "ou": 28072,
+            "telephoneNumber": "88888899",
+            "mail": "99@163.com",
+            "mobile": "15088888899",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 98,
+            "uid": "98@163.com",
+            "cn": "test01",
+            "ou": 28072,
+            "telephoneNumber": "88888898",
+            "mail": "98@163.com",
+            "mobile": "15088888898",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 100,
+            "uid": "100@163.com",
+            "cn": "test02",
+            "ou": 28072,
+            "telephoneNumber": "888888100",
+            "mail": "100@163.com",
+            "mobile": "150888888100",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 99,
+            "uid": "99@163.com",
+            "cn": "test03",
+            "ou": 28072,
+            "telephoneNumber": "88888899",
+            "mail": "99@163.com",
+            "mobile": "15088888899",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 98,
+            "uid": "98@163.com",
+            "cn": "test04",
+            "ou": 28072,
+            "telephoneNumber": "88888898",
+            "mail": "98@163.com",
+            "mobile": "15088888898",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 100,
+            "uid": "100@163.com",
+            "cn": "test05",
+            "ou": 28072,
+            "telephoneNumber": "888888100",
+            "mail": "100@163.com",
+            "mobile": "150888888100",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 99,
+            "uid": "99@163.com",
+            "cn": "test06",
+            "ou": 28072,
+            "telephoneNumber": "88888899",
+            "mail": "99@163.com",
+            "mobile": "15088888899",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [
+                1,
+                5,
+                6,
+                9
+            ],
+            "dept": "副总工程师"
+        },
+        {
+            "id": 98,
+            "uid": "98@163.com",
+            "cn": "test07",
+            "ou": 28072,
+            "telephoneNumber": "88888898",
+            "mail": "98@163.com",
+            "mobile": "15088888898",
+            "isAdmin": 0,
+            "isDelete": 0,
+            "privilege": [],
+            "dept": "副总工程师"
+        }
     ]
-  }
 }

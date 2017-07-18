@@ -1,7 +1,4 @@
-{
-  "message":"success",
-  "data":
-  [
+[
     {
       "name":"nav_lab_1",
       "iconType":"icon_nav_1",
@@ -55,5 +52,4 @@
       "iconType":"icon_nav_10",
       "href":"javascript:;"
     }
-  ]
-}
+]

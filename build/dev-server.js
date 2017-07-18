@@ -30,9 +30,29 @@ var autoOpenBrowser = !!config.dev.autoOpenBrowser;// 用于判断是否要自�
 // Define HTTP proxies to your custom API backend
 // https://github.com/chimurai/http-proxy-middleware
 var proxyTable = config.dev.proxyTable;// 定义 HTTP 代理表，代理到 API 服务器
-
 var app = express();// 创建1个 express 实例
 var compiler = webpack(webpackConfig);// 根据webpack配置文件创建Compiler对象
+
+
+var nav = require('../static/json/nav.json');
+var userList = require('../static/json/userList.json');
+var apiRoutes = express.Router();
+apiRoutes.get('/nav', function (req, res) {//配置api路由
+  res.json({
+    errno: 0,
+    data: nav
+  });
+});
+
+apiRoutes.get('/userList', function (req, res) {//配置api路由
+  res.json({
+    errno: 0,
+    data: userList
+  });
+});
+app.use('/api', apiRoutes);
+
+
 
 
 // webpack-dev-middleware使用compiler对象来对相应的文件进行编译和绑定
