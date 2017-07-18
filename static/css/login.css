@@ -1,0 +1,29 @@
+body{background:#398deb;}
+.page_pic{background: url("../images/page_pic.png?116") no-repeat;}
+.pageIndex_pic{background: url("../images/page_index.png?210") no-repeat;}
+input::-webkit-input-placeholder,textarea::-webkit-input-placeholder,.placeholder{color:#93d8ff}
+input:-moz-placeholder,textarea:-moz-placeholder{color:#93d8ff}
+input::-moz-placeholder,textarea::-moz-placeholder{color:#93d8ff}
+input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#93d8ff}
+.loading_bg,.dialog_box_bg{background:#000;opacity: .6}
+.placeholder{color:#93d8ff}
+.login_title_a{width:267px;height:27px;background-position:-35px -690px;cursor:text;}
+.form_input_a,.form_submit_a{width:208px;height:34px;line-height:34px;padding:0 10px 0 40px;border:1px solid #2d64c0;color:#93d8ff}
+.form_input_a:focus{border-color:#8bcbff;color:#fff;}
+.form_input_a.input_error{border-color:#ff9f9f;}
+.form_submit_a{position: relative; z-index:2;padding:0;font-size:18px;color:#50f4fc;background: none;width:258px;cursor: pointer;}
+.form_submit_a_bg{width:258px;height:34px;background:#2b5db8;opacity:0.3;filter:alpha(opacity=30);position: absolute; top:0;left:30px;}
+.form_button_a:hover .form_submit_a_bg{opacity:1;filter:alpha(opacity=100);}
+.form_checkbox_ui_a:hover{color:#fff;}
+.input_name{background-position:12px -623px;}
+.input_password{background-position:13px -656px;}
+.mod_login{width:100%;height:739px;background: url("../images/index_bg.png") no-repeat center bottom;position: absolute;top:50%;left:0; margin-top:-369px;}
+.login_part{width:318px;height:335px;background-position: 0 0;position: absolute; top:50%;left:50%;margin:-178px 0 0 -159px; z-index: 2;}
+.icon_plane{width:295px;height:288px;background-position:0 -334px;position: absolute; top:0;left:50%;margin-left:108px;}
+.form_list_a li{overflow: hidden;zoom:1;margin-top:20px;}
+.checkbox_ui_a{width:22px;height:22px;border:1px solid #2d64c0;background: none;}
+.checkbox_ui_a.checkbox_active{background: url("../images/page_pic.png?112") no-repeat 3px -688px;}
+.form_checkbox_ui_a:hover .checkbox_ui_a{border-color:#8bcbff;}
+
+.error_info_tab.submitError p.error_txt{display:block!important;margin-top:10px;}
+.error_info_tab.submitError .form_button_a{margin-top:10px; padding-bottom:0;}

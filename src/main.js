@@ -2,14 +2,14 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import router from './router'
-import App from './App'
+import Index from './index.vue'
 
 Vue.config.productionTip = false
 
 new Vue({
-  el: '#app',
+  el: '#index',
   router,
-  template: '<App/>',
-  components: { App }
-}).$mount('#app')
+  template: '<Index/>',
+  components: { Index }
+}).$mount('#index')
 
